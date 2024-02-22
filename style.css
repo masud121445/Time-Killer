@@ -109,8 +109,9 @@ i{
         width:80%;
         margin:0 auto;
         flex-direction: column-reverse;
+        background-size: 100%;
         background-position: bottom;
-        padding-top:50px;
+        padding-top: 50px;
     }
     .banner-img img{
         width:100%;
